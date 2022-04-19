@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../go-git-webhook/.idea/go-git-webhook.iml" filepath="$PROJECT_DIR$/../go-git-webhook/.idea/go-git-webhook.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/scc.iml" filepath="$PROJECT_DIR$/.idea/scc.iml" />
     </modules>
   </component>
